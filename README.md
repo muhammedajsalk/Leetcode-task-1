@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1781-check-if-two-string-arrays-are-equivalent](https://github.com/muhammedajsalk/Leetcode-task-1/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/muhammedajsalk/Leetcode-task-1/tree/master/2274-keep-multiplying-found-values-by-two) |
 ## Hash Table
 |  |
@@ -19,4 +20,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/muhammedajsalk/Leetcode-task-1/tree/master/2274-keep-multiplying-found-values-by-two) |
+## String
+|  |
+| ------- |
+| [1781-check-if-two-string-arrays-are-equivalent](https://github.com/muhammedajsalk/Leetcode-task-1/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 <!---LeetCode Topics End-->
