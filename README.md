@@ -23,5 +23,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0058-length-of-last-word](https://github.com/muhammedajsalk/Leetcode-task-1/tree/master/0058-length-of-last-word) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/muhammedajsalk/Leetcode-task-1/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 <!---LeetCode Topics End-->
