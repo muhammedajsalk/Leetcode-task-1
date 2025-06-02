@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0136-single-number](https://github.com/muhammedajsalk/Leetcode-task-1/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/muhammedajsalk/Leetcode-task-1/tree/master/0217-contains-duplicate) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/muhammedajsalk/Leetcode-task-1/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1848-sum-of-unique-elements](https://github.com/muhammedajsalk/Leetcode-task-1/tree/master/1848-sum-of-unique-elements) |
@@ -35,4 +36,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1848-sum-of-unique-elements](https://github.com/muhammedajsalk/Leetcode-task-1/tree/master/1848-sum-of-unique-elements) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/muhammedajsalk/Leetcode-task-1/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
