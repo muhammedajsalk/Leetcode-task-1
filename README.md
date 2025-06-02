@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/muhammedajsalk/Leetcode-task-1/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/muhammedajsalk/Leetcode-task-1/tree/master/0137-single-number-ii) |
 | [0217-contains-duplicate](https://github.com/muhammedajsalk/Leetcode-task-1/tree/master/0217-contains-duplicate) |
+| [0941-sort-array-by-parity](https://github.com/muhammedajsalk/Leetcode-task-1/tree/master/0941-sort-array-by-parity) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/muhammedajsalk/Leetcode-task-1/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1791-richest-customer-wealth](https://github.com/muhammedajsalk/Leetcode-task-1/tree/master/1791-richest-customer-wealth) |
 | [1848-sum-of-unique-elements](https://github.com/muhammedajsalk/Leetcode-task-1/tree/master/1848-sum-of-unique-elements) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/muhammedajsalk/Leetcode-task-1/tree/master/0217-contains-duplicate) |
+| [0941-sort-array-by-parity](https://github.com/muhammedajsalk/Leetcode-task-1/tree/master/0941-sort-array-by-parity) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/muhammedajsalk/Leetcode-task-1/tree/master/2274-keep-multiplying-found-values-by-two) |
 ## Simulation
 |  |
@@ -47,4 +49,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1791-richest-customer-wealth](https://github.com/muhammedajsalk/Leetcode-task-1/tree/master/1791-richest-customer-wealth) |
+## Two Pointers
+|  |
+| ------- |
+| [0941-sort-array-by-parity](https://github.com/muhammedajsalk/Leetcode-task-1/tree/master/0941-sort-array-by-parity) |
 <!---LeetCode Topics End-->
