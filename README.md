@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1791-richest-customer-wealth](https://github.com/muhammedajsalk/Leetcode-task-1/tree/master/1791-richest-customer-wealth) |
 | [1848-sum-of-unique-elements](https://github.com/muhammedajsalk/Leetcode-task-1/tree/master/1848-sum-of-unique-elements) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/muhammedajsalk/Leetcode-task-1/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/muhammedajsalk/Leetcode-task-1/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Hash Table
 |  |
 | ------- |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1848-sum-of-unique-elements](https://github.com/muhammedajsalk/Leetcode-task-1/tree/master/1848-sum-of-unique-elements) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/muhammedajsalk/Leetcode-task-1/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -53,4 +55,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0941-sort-array-by-parity](https://github.com/muhammedajsalk/Leetcode-task-1/tree/master/0941-sort-array-by-parity) |
+## Binary Search
+|  |
+| ------- |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/muhammedajsalk/Leetcode-task-1/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 <!---LeetCode Topics End-->
