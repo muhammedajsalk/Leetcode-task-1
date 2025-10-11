@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/muhammedajsalk/Leetcode-task-1/tree/master/0058-length-of-last-word) |
 | [0742-to-lower-case](https://github.com/muhammedajsalk/Leetcode-task-1/tree/master/0742-to-lower-case) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/muhammedajsalk/Leetcode-task-1/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [3379-score-of-a-string](https://github.com/muhammedajsalk/Leetcode-task-1/tree/master/3379-score-of-a-string) |
 ## Counting
 |  |
 | ------- |
