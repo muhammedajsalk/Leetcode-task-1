@@ -4,20 +4,14 @@
  * @return {number}
  */
 var differenceOfSums = function(n, m) {
-    let a=[]
-    let b=[]
+    let a=0
+    let b=0
     for(i=1;i<=n;i++){
         if(i % m === 0){
-            a.push(i)
+            a+=i
         }else{
-            b.push(i)
+            b+=i
         }
     }
-    let c=a.reduce((acc,item)=>{
-        return acc+=item
-    },0)
-    let d=b.reduce((acc,item)=>{
-        return acc+=item
-    },0)
-    return d-c
+    return b-a
 };
