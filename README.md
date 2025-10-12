@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1848-sum-of-unique-elements](https://github.com/muhammedajsalk/Leetcode-task-1/tree/master/1848-sum-of-unique-elements) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/muhammedajsalk/Leetcode-task-1/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/muhammedajsalk/Leetcode-task-1/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3194-find-words-containing-character](https://github.com/muhammedajsalk/Leetcode-task-1/tree/master/3194-find-words-containing-character) |
 ## Hash Table
 |  |
 | ------- |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/muhammedajsalk/Leetcode-task-1/tree/master/0058-length-of-last-word) |
 | [0742-to-lower-case](https://github.com/muhammedajsalk/Leetcode-task-1/tree/master/0742-to-lower-case) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/muhammedajsalk/Leetcode-task-1/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [3194-find-words-containing-character](https://github.com/muhammedajsalk/Leetcode-task-1/tree/master/3194-find-words-containing-character) |
 | [3379-score-of-a-string](https://github.com/muhammedajsalk/Leetcode-task-1/tree/master/3379-score-of-a-string) |
 ## Counting
 |  |
