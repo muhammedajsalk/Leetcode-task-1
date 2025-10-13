@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2274-keep-multiplying-found-values-by-two](https://github.com/muhammedajsalk/Leetcode-task-1/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/muhammedajsalk/Leetcode-task-1/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3194-find-words-containing-character](https://github.com/muhammedajsalk/Leetcode-task-1/tree/master/3194-find-words-containing-character) |
+| [3778-transform-array-by-parity](https://github.com/muhammedajsalk/Leetcode-task-1/tree/master/3778-transform-array-by-parity) |
 | [4008-restore-finishing-order](https://github.com/muhammedajsalk/Leetcode-task-1/tree/master/4008-restore-finishing-order) |
 ## Hash Table
 |  |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/muhammedajsalk/Leetcode-task-1/tree/master/0217-contains-duplicate) |
 | [0941-sort-array-by-parity](https://github.com/muhammedajsalk/Leetcode-task-1/tree/master/0941-sort-array-by-parity) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/muhammedajsalk/Leetcode-task-1/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [3778-transform-array-by-parity](https://github.com/muhammedajsalk/Leetcode-task-1/tree/master/3778-transform-array-by-parity) |
 ## Simulation
 |  |
 | ------- |
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1848-sum-of-unique-elements](https://github.com/muhammedajsalk/Leetcode-task-1/tree/master/1848-sum-of-unique-elements) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/muhammedajsalk/Leetcode-task-1/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3778-transform-array-by-parity](https://github.com/muhammedajsalk/Leetcode-task-1/tree/master/3778-transform-array-by-parity) |
 ## Bit Manipulation
 |  |
 | ------- |
