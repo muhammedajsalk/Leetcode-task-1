@@ -76,4 +76,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/muhammedajsalk/Leetcode-task-1/tree/master/3172-divisible-and-non-divisible-sums-difference) |
+| [3830-find-closest-person](https://github.com/muhammedajsalk/Leetcode-task-1/tree/master/3830-find-closest-person) |
 <!---LeetCode Topics End-->
