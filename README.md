@@ -80,10 +80,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [2491-smallest-even-multiple](https://github.com/muhammedajsalk/Leetcode-task-1/tree/master/2491-smallest-even-multiple) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/muhammedajsalk/Leetcode-task-1/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/muhammedajsalk/Leetcode-task-1/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3567-convert-date-to-binary](https://github.com/muhammedajsalk/Leetcode-task-1/tree/master/3567-convert-date-to-binary) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/muhammedajsalk/Leetcode-task-1/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3830-find-closest-person](https://github.com/muhammedajsalk/Leetcode-task-1/tree/master/3830-find-closest-person) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/muhammedajsalk/Leetcode-task-1/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
+## Number Theory
+|  |
+| ------- |
+| [2491-smallest-even-multiple](https://github.com/muhammedajsalk/Leetcode-task-1/tree/master/2491-smallest-even-multiple) |
 <!---LeetCode Topics End-->
